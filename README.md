@@ -2,4 +2,4 @@ Créditos ao [video de Gustavo Neitzke](https://youtu.be/42TShjXR0m0) onde ensin
 
 Este projeto foi feito com o intuito de aprendizagem sobre JavaScript. Se trada de uma aplicação simples. Foram realizadas alguma correções das entradas de datos em relação ao código do criador.
 
-![Print](print.png)
+![Print](print.PNG)
